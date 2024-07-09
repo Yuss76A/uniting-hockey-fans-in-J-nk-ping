@@ -7,13 +7,8 @@ The Uniting Hockey Fans in Jönköping page is designed to unite passionate supp
 
 First Time Visitor Goals:
 
-        Understand the Site's Purpose:
+Understand the Site's Purpose:
+* As a newcomer, I want to quickly grasp the main objective of the website, enabling me to learn more about the organization.
 
-         *As a newcomer, I want to quickly grasp the main objective of the website, enabling me to 
-          learn more about the organization.
-
-        Easy Navigation:
-
-          *As a first-time visitor, I want to effortlessly browse through the website, allowing me to 
-           locate the content I'm interested in. 
-
+Easy Navigation:
+* As a first-time visitor, I want to effortlessly browse through the website, allowing me to locate the content I'm interested in.
