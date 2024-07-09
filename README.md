@@ -14,5 +14,6 @@ First Time Visitor Goals:
 
         Easy Navigation:
 
-          *As a first-time visitor, I want to effortlessly browse through the website, allowing me to *locate the content I'm interested in. 
+          *As a first-time visitor, I want to effortlessly browse through the website, allowing me to 
+           locate the content I'm interested in. 
 
