@@ -39,6 +39,17 @@ h1 {
     color: #ffff00;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    
+    
+}
+
+#menu > li {
+    margin-bottom: 2em;
+}
+
 /* Main Content */
 main {
     background-color: #ffffff;
