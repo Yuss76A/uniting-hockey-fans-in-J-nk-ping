@@ -12,3 +12,17 @@ Understand the Site's Purpose:
 
 Easy Navigation:
 * As a first-time visitor, I want to effortlessly browse through the website, allowing me to locate the content I'm interested in.
+
+
+Frequent Visitor Goals:
+
+Participate in Events and Contests:
+* As a frequent visitor, I want to easily find and participate in fan events, contests, and activities, enhancing my engagement with the club.
+
+
+Contact the Club Easily:
+* As a frequent visitor, I want a straightforward way to contact the club for any inquiries, suggestions, or support, ensuring open communication.
+
+
+
+
