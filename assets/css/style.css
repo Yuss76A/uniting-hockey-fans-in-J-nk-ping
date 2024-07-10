@@ -30,6 +30,10 @@ header {
     margin-top: 0;
 }
 
+h1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* Main Content */
 main {
     background-color: red;
