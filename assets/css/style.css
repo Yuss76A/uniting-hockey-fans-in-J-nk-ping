@@ -1,0 +1,22 @@
+/* Asterics symbol to override the styles added by the browser */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* Header */
+header {
+    background-color: lightblue;
+}
+
+/* Main Content */
+main {
+    background-color: red;
+}
+
+/* Footer */
+footer {
+    background-color: green;
+}
