@@ -28,17 +28,3 @@ body {
 
 
 
-/* Main Content */
-main {
-    background-color: #ffffff;
-    /* Make main element take surplus space and push down the footer */
-    flex: 4 0 auto;
-}
-
-/* Footer */
-footer {
-    background-color: #000080;
-    text-align: center;
-    flex: 1;
-
-}
