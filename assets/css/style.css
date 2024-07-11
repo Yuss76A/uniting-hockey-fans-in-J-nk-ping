@@ -10,21 +10,7 @@
     box-sizing: border-box;
 }
 
-/* General styles */
-body {
-    font-family: Open Sans, sans-serif;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    /* Generic project styles */
-    color: #3a3a3a; ;
-    position: relative;
-}
 
-
-
-
-/* Header */
 
 
 
