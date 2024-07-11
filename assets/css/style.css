@@ -84,7 +84,23 @@ nav a {
     color: #ffffff;
 }
 
+/* Content Area Section */
 
+.content-area {
+    width: 100%;
+    position: relative;
+    top: 450px;
+    background: #ffffff;
+    height: 1500px;
+}
+
+.content-area h2 {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 4px;
+    padding-top: 30px;
+    font-size: 40px;
+    margin: 0;
+}
 
 
 
