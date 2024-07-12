@@ -85,6 +85,11 @@ nav a {
 
 }
 
+nav a:hover {
+    color: yellow;
+    border-bottom: 2px solid yellow;
+}
+
 /* Banner-Area Section */
 
 .banner-area {
