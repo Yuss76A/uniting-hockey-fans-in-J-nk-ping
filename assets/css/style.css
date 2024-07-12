@@ -93,7 +93,7 @@ nav a {
     position: relative;
     top: 450px;
     background: #ffffff;
-    height: 1500px;
+    height: 500px;
 }
 
 .content-area h2 {
@@ -106,18 +106,39 @@ nav a {
 
 /* Footer Styling */
 
-#social-networks {
-
-text-align: center;
-padding: 20px 0;
-display: flex;
-justify-content: space-evenly;
-
-}
-
-#social-networks i {
-    font-size: 160%;
-    padding: 5%;
+footer {
+    position: absolute;
+    z-index:99;
+    width: 100%;
+    background-color: #000080;
+    text-align: center;
     color: #ffffff;
 }
+
+footer p {
+    color: #ffffff;
+    text-align: center;
+}
+
+#social-networks {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  #social-networks i {
+    text-decoration: none;
+    color: var(#ffffff);
+    padding: 3rem 1rem;
+    font-size: 2rem;
+  }
+  
+  #social-networks i:hover {
+    color: var(#ffffff);
+  }
+
+
+
 
