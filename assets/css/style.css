@@ -106,26 +106,18 @@ nav a {
 
 /* Footer Styling */
 
-footer {
-    padding: 5px;
-    position: fixed;
-    height: 10%;
-    width: 100%;
-    text-align: center;
-    left: 0;
-    bottom: 0;
-    background-color: #000080;
-    color: #ffffff;
-    
+#social-networks {
+
+text-align: center;
+padding: 20px 0;
+display: flex;
+justify-content: space-evenly;
+
 }
 
-.footer a {
-
-display: flex;
-flex-direction: row;
-color: #ffffff;
-left: 0;
-right: 0;
-
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffffff;
 }
 
