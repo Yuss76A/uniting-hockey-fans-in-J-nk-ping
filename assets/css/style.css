@@ -7,16 +7,30 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
     
 }
+
+
 
 /* Body Section */
 
 body {
     text-align: center;
-    
-    
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+   }
+
+/* Main */
+
+main {
+flex: 1 0 auto;
 }
+
+/* Wrapper */
+
 .wrapper {
     width: 1170px;
     margin: 0 auto;
@@ -28,8 +42,11 @@ header {
     height: 100px;
     background: #000080;
     width: 100%;
-    z-index: 12;
+    z-index: 1000;
     position: fixed;
+    top: 0;
+    left: 0;
+
 }
 
 .logo {
@@ -71,7 +88,7 @@ nav a {
     width: 100%;
     height: 500px;
     position: fixed;
-    top: 100px;
+    margin-top: 100px;
     background-image: url(https://pbs.twimg.com/media/DX_gYhWWsAACvoN?format=jpg&name=4096x4096);
     background-size: cover;
     background-position: center center;
@@ -84,6 +101,7 @@ nav a {
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     color: #ffffff;
+    
 }
 
 /* Content Area Section */
@@ -102,42 +120,49 @@ nav a {
     padding-top: 30px;
     font-size: 40px;
     margin: 0;
+    
 }
+
+
 
 /* Footer Styling */
 
-footer {
-    position: absolute;
-    z-index:99;
-    width: 100%;
+#footer {
+    z-index: 99;
     background-color: #000080;
     text-align: center;
     color: #ffffff;
+    padding: 20px 0;
+     }
+
+#footer p {
+    margin: 5px 0;
+    
 }
 
-footer p {
-    color: #ffffff;
-    text-align: center;
-}
-
-#social-networks {
+#footer ul.social-networks {
+    list-style-type: none;
+    padding: 0;
+    margin: 20px 0 0 0;
     display: flex;
     justify-content: center;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  
-  #social-networks i {
+    gap: 15px;
+}
+
+#footer ul.social-networks li {
+    display: inline-block;
+}
+
+#footer ul.social-networks {
+    color: #ffffff;
     text-decoration: none;
-    color: var(#ffffff);
-    padding: 3rem 1rem;
-    font-size: 2rem;
-  }
-  
-  #social-networks i:hover {
-    color: var(#ffffff);
-  }
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+footer ul.social-networks a:hover {
+    color: #ffdd57;
+}
 
 
 
