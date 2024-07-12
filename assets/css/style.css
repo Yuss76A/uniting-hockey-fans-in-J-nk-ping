@@ -102,6 +102,16 @@ nav a {
     margin: 0;
 }
 
+/* Footer Styling */
 
-
-
+footer {
+    padding: 5px;
+    position: fixed;
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    left: 0;
+    bottom: 0;
+    background-color: #000080;
+    
+}
