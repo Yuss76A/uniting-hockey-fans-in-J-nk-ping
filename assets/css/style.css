@@ -135,39 +135,23 @@ nav a:hover {
     flex: 1 0 auto;
     position: relative;
     top: 450px;
-    height: 500px;
+    height: 700px;
     background: #ffffff;
     padding-top: 50px;
 }
 
 .content-area h2 {
     font-family: 'Open Sans', sans-serif;
-    letter-spacing: 4px;
-    padding-top: 10px;
+    letter-spacing: 5px;
+    padding-top: 0;
     font-size: 40px;
     margin: 0;
     
-}
-
-/* Fans logo and Video */
-.image {
-    max-width: 100cm; 
     
 }
 
-.image img {
-    max-width: 100cm; 
-    max-height: 50cm; 
-    transform: scale(1.05);
-}
 
 
-   
-
-.video {
-    max-width: 50%; 
-    float: right;
-}
 
 /* Footer Styling */
 
@@ -177,6 +161,7 @@ nav a:hover {
     text-align: center;
     color: #ffffff;
     padding: 20px 0;
+    
     
      }
 
