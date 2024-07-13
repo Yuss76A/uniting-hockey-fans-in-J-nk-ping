@@ -139,7 +139,7 @@ nav a:hover {
     flex: 1 0 auto;
     position: relative;
     top: 450px;
-    height: 700px;
+    height: 800px;
     background: #ffffff;
     padding-top: 50px;
 }
@@ -212,6 +212,17 @@ nav a:hover {
     color: yellow;
 }
 
+/* Media Description */
+
+
+.media-section {
+    position: relative;
+    display: inline-block; 
+}
+
+
+
+ 
 /* Media query : tablets and larger ( 768px and up) */
 
 @media screen and (max-width: 768px) and (max-width: 1024px) {
