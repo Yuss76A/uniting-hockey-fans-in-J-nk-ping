@@ -33,7 +33,7 @@ min-height: 130vh;
 }
 
 /* Nav toggle */
-#nav-toggle:checked~nav {
+#nav-toggle:checked + .nav-toggle-label {
     display: block;
 }
 
@@ -43,6 +43,7 @@ min-height: 130vh;
 
 .nav-toggle-label {
     font-size: 2rem;
+    cursor: pointer;
 }
 
 
@@ -148,7 +149,25 @@ nav a:hover {
     
 }
 
+/* Fans logo and Video */
+.image {
+    max-width: 100cm; 
+    
+}
 
+.image img {
+    max-width: 100cm; 
+    max-height: 50cm; 
+    transform: scale(1.05);
+}
+
+
+   
+}
+.video {
+    max-width: 50%; 
+    float: right;
+}
 
 /* Footer Styling */
 
@@ -194,6 +213,26 @@ nav a:hover {
 #footer ul.social-networks a:hover {
     color: yellow;
 }
+
+/* Media query : tablets and larger ( 768px and up) */
+
+@media screen and (max-width: 768px) and (max-width: 1024px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+nav  {
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+
+
 
 
 
