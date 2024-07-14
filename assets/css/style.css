@@ -173,6 +173,11 @@ nav a:hover {
     padding: 30px;
 }
 
+.content-area h2 {
+
+    margin-top: -30px;
+}
+
 /* Footer Styling */
 
 #footer {
@@ -270,7 +275,7 @@ nav a {
     height: 300px;
     object-fit: cover;
     object-position: center;
-    margin-bottom: 20px;
+    
 }
   
   /*Styling Text on images*/
@@ -286,31 +291,34 @@ nav a {
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
     opacity: 0;
     transition: opacity ease-in-out 500ms;
-    width: 300px;
-    height: 300px;
+    width: 100%;
+    height: 100%;
     background: #464362e9;
     padding: 1rem 2rem;
-    object-position: center;
-  }
-  
-  .gallery_image:hover .image_content {
+    z-index: 1;
+}
+
+.gallery_image:hover .image_content  {
     opacity: 1;
-  }
-  
-  .image_name {
+}
+
+.image_name {
     grid-row: 1/2;
     justify-self: center;
     align-self: center;
-  }
-  
-  .image_description {
+}
+
+.image_description {
     grid-row: 2/3;
-    justify-self: center;
+    
     font-size: 1.2em;
-  }
+    text-align: center;
+}
 
+.gallery_image {
 
-  
+    position: relative;
+   
+    
+}
 
-  
- 
