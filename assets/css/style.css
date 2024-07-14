@@ -97,10 +97,7 @@ header {
 nav {
    
     float: right;
-    display: flex;
-   justify-content: center;
-   align-items: center;
-   
+   margin-top: -30px;
 }
 
 nav a {
@@ -111,6 +108,7 @@ nav a {
     margin: 0 10px;
     color: #ffffff;
     text-transform: uppercase;
+    
     
 }
 
@@ -266,7 +264,7 @@ nav a {
     width: 100vw;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
-    column-gap: 10px;
+    column-gap: 15px;
     row-gap: 10px;
     margin-left: -55px;
 }
