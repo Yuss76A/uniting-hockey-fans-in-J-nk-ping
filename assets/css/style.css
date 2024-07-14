@@ -152,7 +152,7 @@ nav a:hover {
     height: 800px;
     background: #ffffff;
     padding-top: 50px;
-}
+    }
 
 .content-area h2 {
     font-family: 'Open Sans', sans-serif;
@@ -268,6 +268,7 @@ nav a {
     grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
     column-gap: 10px;
     row-gap: 10px;
+    margin-left: -55px;
 }
   
 .photo {
@@ -276,7 +277,7 @@ nav a {
     object-fit: cover;
     object-position: center;
     
-}
+    }
   
   /*Styling Text on images*/
 
@@ -323,6 +324,5 @@ nav a {
 
 position: relative;
 margin-top: -10px;
-   
 }
 
