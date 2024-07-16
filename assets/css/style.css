@@ -329,14 +329,15 @@ margin-top: -10px;
 .contact {
     position: relative;
     min-height: 100vh;
-    padding: 30px 100px;
+    padding: 50px 100px;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fbac3d93-ba43-48fe-8b54-e42e719fa828/d60r0lt-143fdbb8-c827-4b2e-b430-94b78ee71cc0.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZiYWMzZDkzLWJhNDMtNDhmZS04YjU0LWU0MmU3MTlmYTgyOFwvZDYwcjBsdC0xNDNmZGJiOC1jODI3LTRiMmUtYjQzMC05NGI3OGVlNzFjYzAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p2jDH9_qSTKA9P2HyfFl9xL_ZyJP-IZQPf7-FoZQS84);
+    background: url(https://www.shutterstock.com/image-photo/ice-hockey-rink-arena-professional-260nw-2018928611.jpg);
     background-size: cover;
     
+  
 }
 .contact .content {
     max-width: 500px;
@@ -345,8 +346,9 @@ margin-top: -10px;
 
 .contact .content h2 {
     font-size: 36px;
-    font-weight: 500;
-    color:#333;
+    font-weight: 600;
+    color:#ffffff;
+    letter-spacing: 20px;
 }
 .contact .content p {
     
@@ -400,7 +402,9 @@ margin-top: -10px;
     width: 40%;
     padding: 40px;
     background: #fff;
-}
+    background: url(https://www.thesportsdb.com/images/media/league/badge/95fnqb1547547893.png);
+    background-size: cover;
+    }
 .contactForm h2 {
     font-size: 30px;
     color: #333;
@@ -415,7 +419,7 @@ margin-top: -10px;
 .contactForm .inputBox textarea
 {
     width: 100%;
-    padding: 5px;
+    padding: 5px 0;
     font-size: 16px;
     margin: 10px 0;
     border: none;
@@ -446,7 +450,7 @@ margin-top: -10px;
 .contactForm .inputBox input[type="submit"] {
     width: 100px;
     background: #00bcd4;
-    color: #;
+    color: #fff;
     border: none;
     cursor: pointer;
     padding: 10px;
