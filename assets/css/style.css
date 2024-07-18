@@ -326,13 +326,13 @@ margin-top: -10px;
 .contact .content h2 {
     font-size: 36px;
     font-weight: 600;
-    color:#ffffff;
+    color:#000080;
     letter-spacing: 20px;
 }
 .contact .content p {
     
     font-weight: 500;
-    color: #ffffff;
+    color: #000080;
     
 }
 .container {
@@ -369,13 +369,15 @@ margin-top: -10px;
     display: flex;
     margin-left: 20px;
     font-size: 16px;
-    color: #fff;
+    color: #000080;
     flex-direction: column;
-    font-weight: 300;
+    font-weight: 200;
+    
 }
 .container .contactInfo .box .text h3 {
     font-weight: 500;
-    color: #00bcd4;
+    color: #000080;
+    
 }
 .contactForm {
     width: 40%;
@@ -384,7 +386,7 @@ margin-top: -10px;
     }
 .contactForm h2 {
     font-size: 30px;
-    color: #333;
+    color: #000080;
     font-weight: 500;
 }
 .contactForm .inputBox {
