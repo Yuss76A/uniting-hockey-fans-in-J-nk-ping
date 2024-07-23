@@ -156,6 +156,28 @@ Below is a description of the colors and their respective applications
 
 
 
+## Used Technologies
+
+### Languages
+
+* [CSS](https://en.wikipedia.org/wiki/CSS "CSS")
+* [HTML](https://en.wikipedia.org/wiki/HTML "HTML")
+
+### Libraries & Framework
+
+* [Google Fonts](https://fonts.google.com "Google Fonts")
+* [Font Awesome](https://fontawesome.com "Font Awesome")
+
+### Tools
+
+* [GitHub](https://github.com "GitHub")
+* [Gitpod](https://gitpod.io "Gitpod")
+* [W3C Markup Validation](https://validator.w3.org/#validate_by_input "W3C Markup Validation")
+* [W3C CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_input "W3C CSS Validation")
+
+
+
+
 
 
 
