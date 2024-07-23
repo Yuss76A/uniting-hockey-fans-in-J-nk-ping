@@ -142,6 +142,19 @@ Below is a description of the colors and their respective applications
 
 
 
+### Footer 
+
+* The footer of the page is designed to align with the page header for visual consistency.
+
+* It includes social network links associated with the hockey fans club.
+
+* When clicked, these links will open in a new tab, allowing the customer to stay on the hockey fans club page.
+
+* There is a hover color effect that changes the links to a different color when you hover your mouse over them.
+
+![Footer](docs/screenshots/footer.png)
+
+
 
 
 
