@@ -58,9 +58,9 @@ Below is a description of the colors and their respective applications
 * #e91e63 - This color will be used for the contact-box section changin the color of the text inside the contact-box.
 * #00bcd4 - This color will be used for the text sections Address, Email, Telephone in the contact page.
 
-## Pages Description :
+## Pages Description 
 
-### Home Page :
+### Home Page 
 
 * The home section of the HV7 Hockey Club website captures the excitement and energy of hockey, immediately drawing users into the club's vibrant community. A captivating photograph of a packed hockey arena, full of fans and game atmosphere.
 
@@ -85,6 +85,26 @@ Below is a description of the colors and their respective applications
  ![Video](docs/screenshots/video.png)
 
  [video](https://www.youtube.com/watch?v=a7cLPHQ8zSw&embeds_referring_euri=https%3A%2F%2F8000-yuss76a-unitinghockeyfa-yhkls5tuyp6.ws.codeinstitute-ide.net%2F&source_ve_path=MjM4NTE)
+
+
+
+ ### Gallery Page
+
+ * The Gallery page of the HV7 Hockey Club website offers an immersive visual experience, showcasing the heart and soul of the club through a curated collection of photos.
+
+ ![Gallery](docs/screenshots/gallerypage.png)
+
+ ## Player and Game Photos
+
+ * The gallery includes a variety of photos capturing players in action and significant game moments. These images celebrate the skill, teamwork, and excitement that define HV7 Hockey Club.
+
+ ![Player and Game Photos](docs/screenshots/gallery.png)
+
+ ## Image Descriptions
+
+ * Each image is accompanied by a description that provides context and interesting facts about the club's history, enhancing the viewer's connection to the club.
+
+ ![Image Descritpions](docs/screenshots/description.png)
 
 
 
