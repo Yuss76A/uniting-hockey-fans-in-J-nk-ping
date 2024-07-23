@@ -134,6 +134,14 @@ Below is a description of the colors and their respective applications
 
 
 
+### Response Page
+
+* The last page, which is not visible in the navigation menu, is the response page. This is the page you reach after filling out the contact box and sending us your message. Here, you'll find confirmation of your message submission
+
+![Response Page](docs/screenshots/responsepage.png)
+
+
+
 
 
 
