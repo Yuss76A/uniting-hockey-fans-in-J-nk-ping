@@ -74,7 +74,9 @@ Below is a description of the colors and their respective applications
 
 ## Logo and Branding
 
- * The HV7 Hockey Club logo is prominently displayed, reinforcing brand identity and unifying the page's elements.
+ * Our emblem, the bull, symbolizes the fighting spirit of HV71. we are a team that never surrenders, always striving to conquer, and embrace the electrifying energy of the exhilarating game nights.
+
+.
 
  ![Fans Club Logo](docs/screenshots/bull.png)
 
