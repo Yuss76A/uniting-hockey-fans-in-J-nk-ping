@@ -82,7 +82,7 @@ Below is a description of the colors and their respective applications
 
  ![Video](docs/screenshots/video.png)
 
- ![link](https://www.youtube.com/watch?v=a7cLPHQ8zSw&embeds_referring_euri=https%3A%2F%2F8000-yuss76a-unitinghockeyfa-yhkls5tuyp6.ws.codeinstitute-ide.net%2F&source_ve_path=MjM4NTE)
+ (https://www.youtube.com/watch?v=a7cLPHQ8zSw&embeds_referring_euri=https%3A%2F%2F8000-yuss76a-unitinghockeyfa-yhkls5tuyp6.ws.codeinstitute-ide.net%2F&source_ve_path=MjM4NTE)
 
 
 
