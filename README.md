@@ -50,6 +50,13 @@ Below is a description of the colors and their respective applications
 
 ![Colour Palette](docs/screenshots/screenshot.png)
 
+* #000080 - This color will be used for the header, footer, text paragraphs in the 3 pages of the website and part of the gradient-linear in the content area.
+* #ffffff - This color will be used  for the nav-bar menu, logo text, social-networks icons, banner-text and part of the gradient-linear of the content-area.
+* #ffff00 - This color will be used for the nav.hoger color for the nav-menu text,social networks icons and part of the gradient-linear of the content-area.
+* #e91e63 - This color will be used for the contact-box section changin the color of the text inside the contact-box.
+* #00bcd4 - This color will be used for the text sections Address, Email, Telephone in the contact page.
+
+
 
 
 
