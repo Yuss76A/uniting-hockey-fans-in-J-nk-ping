@@ -62,17 +62,27 @@ Below is a description of the colors and their respective applications
 
 * The home section of the HV7 Hockey Club website captures the excitement and energy of hockey, immediately drawing users into the club's vibrant community. A captivating photograph of a packed hockey arena, full of fans and game atmosphere.
 
+![Home Page](docs/screenshots/homepage.png)
+
 ## Club Description
 
 * A concise description highlights the club's mission to create a fun and inclusive environment for hockey enthusiasts of all levels. It emphasizes community, teamwork, and a shared love for the game.
+
+ ![Fans Club Description](docs/screenshots/content.png)
 
 ## Logo and Branding
 
  * The HV7 Hockey Club logo is prominently displayed, reinforcing brand identity and unifying the page's elements.
 
+ ![Fans Club Logo](docs/screenshots/bull.png)
+
  ##  Video Feature
 
  * A featured video from a recent hockey game captures the excitement of live play and the camaraderie among players and fans, further engaging visitors and inspiring them to join the club.
+
+ ![Video](docs/screenshots/video.png)
+
+ ![link](https://www.youtube.com/watch?v=a7cLPHQ8zSw&embeds_referring_euri=https%3A%2F%2F8000-yuss76a-unitinghockeyfa-yhkls5tuyp6.ws.codeinstitute-ide.net%2F&source_ve_path=MjM4NTE)
 
 
 
