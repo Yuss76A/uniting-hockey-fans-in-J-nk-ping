@@ -76,8 +76,6 @@ Below is a description of the colors and their respective applications
 
  * Our emblem, the bull, symbolizes the fighting spirit of HV71. we are a team that never surrenders, always striving to conquer, and embrace the electrifying energy of the exhilarating game nights.
 
-.
-
  ![Fans Club Logo](docs/screenshots/bull.png)
 
  ##  Video Feature
@@ -107,6 +105,35 @@ Below is a description of the colors and their respective applications
  * Each image is accompanied by a description that provides context and interesting facts about the club's history, enhancing the viewer's connection to the club.
 
  ![Image Descritpions](docs/screenshots/description.png)
+
+
+
+### Contact Page
+
+* Our contact page provides all the essential details you need to connect with us. It includes:
+
+![Main Page](docs/screenshots/contactmainpage.png)
+
+## Fan Club Address, Email and Telephone 
+
+* Our contact page gives you all the essential details to connect with us, including the fan club's email, phone number, and address! We invite you to reach out, share your thoughts, and be part of our vibrant hockey family. Don’t hesitate to join us in celebrating the thrill of the game!.
+
+![Address Information](docs/screenshots/contactusinformation.png)
+
+## Contact Box 
+
+* A convenient form for you to easily share your inquiries or feedback.
+
+![Contact Box](docs/screenshots/contactbox.png)
+
+## Contact Us Message
+
+* Additionally, the page features an inviting message encouraging everyone to join our passionate hockey family and be part of the incredible fan club community!
+
+![Message](docs/screenshots/contactusmessage.png)
+
+
+
 
 
 
