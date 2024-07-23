@@ -42,5 +42,15 @@ The Uniting Hockey Fans in Jönköping page is designed to unite passionate supp
 * Open Sans was selected as the primary and only font for the HV71 Hockey FanClub website. This choice was made to ensure a clean, modern, and highly readable presentation throughout all site content. Open Sans is known for its excellent legibility on both web and mobile platforms, which is crucial for our audience who might access the site from various devices. To add a distinctive character to the HV71 Hockey FanClub website, careful consideration was given to the font is with a focus on enhancing readability and aligning with the club's dynamic and sporty aesthetic.
 
 
+### Colors
+
+* The colors used in this project are yellow, white, and navy blue. These colors were chosen because they represent the team's official colors. Yellow symbolizes energy and excitement, white signifies purity and simplicity, and navy blue conveys strength and reliability. Using these colors helps to visually align the project with the team's brand and spirit.
+
+Below is a description of the colors and their respective applications
+
+![Colour Palette](assets/images/Captura de Pantalla 2024-07-23 a las 9.39.51.png)
+
+
+
 
 
