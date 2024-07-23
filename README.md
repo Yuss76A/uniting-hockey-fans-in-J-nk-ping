@@ -48,7 +48,7 @@ The Uniting Hockey Fans in Jönköping page is designed to unite passionate supp
 
 Below is a description of the colors and their respective applications
 
-![Colour Palette](docs/screenshots/Captura de Pantalla 2024-07-23 a las 9.39.51.png)
+![Colour Palette](docs/screenshots/screenshot.png)
 
 
 
