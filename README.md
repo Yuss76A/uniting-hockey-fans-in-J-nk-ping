@@ -37,5 +37,10 @@ The Uniting Hockey Fans in Jönköping page is designed to unite passionate supp
 * Icons have been obtained from Font Awesome and are utilized to signify navigation elements on smaller screens and social media links within the footer.
 
 
+### Fonts
+
+* Open Sans was selected as the primary and only font for the HV71 Hockey FanClub website. This choice was made to ensure a clean, modern, and highly readable presentation throughout all site content. Open Sans is known for its excellent legibility on both web and mobile platforms, which is crucial for our audience who might access the site from various devices. To add a distinctive character to the HV71 Hockey FanClub website, careful consideration was given to the font is with a focus on enhancing readability and aligning with the club's dynamic and sporty aesthetic.
+
+
 
 
