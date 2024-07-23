@@ -177,6 +177,20 @@ Below is a description of the colors and their respective applications
 
 
 
+## Deployment
+
+The site was deployed using GitHub. The steps for deployment are as follows:
+
+1. Go to the repository for your GitHub project.
+2. Click on the settings tab.
+3. Select page settings under Code and automation.
+4. In the Build and deployment section, choose Deploy from branch as the source.
+5. Make sure the main branch is selected and then click save.
+6. Once these steps are completed, the page should go live within a few minutes.
+7. You will be able to view your live project at http://your-username.github.io/your-project-title/.
+
+
+
 
 
 
