@@ -9,21 +9,33 @@ The Uniting Hockey Fans in Jönköping page is designed to unite passionate supp
 ### First Time Visitor Goals:
 
 ## Understand the Site's Purpose:
+
 * As a newcomer, I want to quickly grasp the main objective of the website, enabling me to learn more about the organization.
 
 ## Easy Navigation:
+
 * As a first-time visitor, I want to effortlessly browse through the website, allowing me to locate the content I'm interested in.
 
 
 ### Frequent Visitor Goals:
 
 ## Participate in Events and Contests:
+
 * As a frequent visitor, I want to easily find and participate in fan events, contests, and activities, enhancing my engagement with the club.
 
 
 ## Contact the Club Easily:
+
 * As a frequent visitor, I want a straightforward way to contact the club for any inquiries, suggestions, or support, ensuring open communication.
 
 --- 
+
+## Design choices
+
+### Icons
+
+* Icons have been obtained from Font Awesome and are utilized to signify navigation elements on smaller screens and social media links within the footer.
+
+
 
 
