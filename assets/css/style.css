@@ -4,11 +4,11 @@
 
 
 /* Asterics symbol to override the styles added by the browser */
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
+
 }
 
 html {
@@ -24,20 +24,20 @@ body {
     flex-direction: column;
     min-height: 100vh;
     position: relative;
-    
-   }
+
+}
 
 /* Main */
 
 main {
-flex: 1 0 auto;
-min-height: 130vh;
+    flex: 1 0 auto;
+    min-height: 130vh;
 
 
 }
 
 /* Nav toggle */
-#nav-toggle:checked + .nav-toggle-label {
+#nav-toggle:checked+.nav-toggle-label {
     display: block;
 }
 
@@ -51,13 +51,13 @@ min-height: 130vh;
 }
 
 
- 
+
 /* Wrapper */
 
 .wrapper {
     width: 1170px;
     margin: 0 auto;
-    
+
 }
 
 /* Header Section */
@@ -75,11 +75,12 @@ header {
     align-items: center;
 
 }
+
 /* Logo Section */
 
 .logo {
-  width: 30%;
-  text-align: left;
+    width: 30%;
+    text-align: left;
 }
 
 
@@ -90,15 +91,15 @@ header {
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 1px;
-    
+
 }
 
 /* Navigation Bar Section */
 
 nav {
-   
+
     float: right;
-   margin-top: -30px;
+    margin-top: -30px;
 }
 
 nav a {
@@ -109,8 +110,8 @@ nav a {
     margin: 0 10px;
     color: #ffffff;
     text-transform: uppercase;
-    
-    
+
+
 }
 
 nav a:hover {
@@ -128,7 +129,7 @@ nav a:hover {
     background-image: url(https://pbs.twimg.com/media/DX_gYhWWsAACvoN?format=jpg&name=4096x4096);
     background-size: cover;
     background-position: center center;
-    
+
 
 }
 
@@ -138,7 +139,7 @@ nav a:hover {
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
     color: #ffffff;
-    
+
 }
 
 /* Content Area Section */
@@ -151,7 +152,7 @@ nav a:hover {
     height: 800px;
     padding-top: 50px;
     background: linear-gradient(white, yellow, blue);
-    }
+}
 
 .content-area h2 {
     font-family: 'Open Sans', sans-serif;
@@ -185,17 +186,17 @@ nav a:hover {
     background-color: #000080;
     text-align: center;
     color: #ffffff;
-    padding:  0;
+    padding: 0;
     position: fixed;
     bottom: 0;
     width: 100%;
-   
+
 }
-    
+
 
 #footer p {
     margin: 5px 0;
-    
+
 }
 
 #footer ul.social-networks {
@@ -215,7 +216,7 @@ nav a:hover {
     color: #ffffff;
     text-decoration: none;
     font-size: 24px;
-    
+
 }
 
 #footer ul.social-networks a {
@@ -232,7 +233,7 @@ nav a:hover {
 
 .media-section {
     position: relative;
-    display: inline-block; 
+    display: inline-block;
 }
 
 /* 2 page styling Gallery page */
@@ -250,24 +251,24 @@ nav a:hover {
     row-gap: 10px;
     margin-left: -55px;
 }
-  
+
 .photo {
     width: 300px;
     height: 300px;
     object-fit: cover;
     object-position: center;
-    
-    }
-  
-  /*Styling Text on images*/
 
-  .image_content {
+}
+
+/*Styling Text on images*/
+
+.image_content {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     display: grid;
-     color: white;
+    color: white;
     text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
     opacity: 0;
     transition: opacity ease-in-out 500ms;
@@ -276,14 +277,14 @@ nav a:hover {
     background: #464362e9;
     padding: 1rem 2rem;
     z-index: 1;
-    display: flex; 
-    flex-direction: column; 
-    justify-content: center; 
-    align-items: center; 
-  }
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 
-.gallery_image:hover .image_content  {
+.gallery_image:hover .image_content {
     opacity: 1;
 }
 
@@ -291,7 +292,7 @@ nav a:hover {
     grid-row: 1/2;
     text-align: center;
     max-width: 90%;
-   }
+}
 
 .image_description {
     grid-row: 2/3;
@@ -302,8 +303,8 @@ nav a:hover {
 
 .gallery_image {
 
-position: relative;
-margin-top: -10px;
+    position: relative;
+    margin-top: -10px;
 }
 
 /* Sign-Up page styling */
@@ -326,15 +327,17 @@ margin-top: -10px;
 .contact .content h2 {
     font-size: 36px;
     font-weight: 600;
-    color:#000080;
+    color: #000080;
     letter-spacing: 20px;
 }
+
 .contact .content p {
-    
+
     font-weight: 500;
     color: #000080;
-    
+
 }
+
 .container {
     width: 100%;
     display: flex;
@@ -348,6 +351,7 @@ margin-top: -10px;
     display: flex;
     flex-direction: column;
 }
+
 .container .contactInfo .box {
     position: relative;
     padding: 20px 0;
@@ -355,14 +359,14 @@ margin-top: -10px;
 }
 
 .container .contactInfo .box .icon {
-   min-width: 60px;
-   height: 60px;
-   background-color: #fff;
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   border-radius: 50%;
-   font-size: 22px;
+    min-width: 60px;
+    height: 60px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    font-size: 22px;
 }
 
 .container .contactInfo .box .text {
@@ -372,31 +376,35 @@ margin-top: -10px;
     color: #000080;
     flex-direction: column;
     font-weight: 200;
-    
+
 }
+
 .container .contactInfo .box .text h3 {
     font-weight: 500;
     color: #000080;
-    
+
 }
+
 .contactForm {
     width: 40%;
     padding: 40px;
     background: transparent;
-    }
+}
+
 .contactForm h2 {
     font-size: 30px;
     color: #000080;
     font-weight: 500;
 }
+
 .contactForm .inputBox {
     position: relative;
     width: 100%;
     margin-top: 10px;
 }
+
 .contactForm .inputBox input,
-.contactForm .inputBox textarea
-{
+.contactForm .inputBox textarea {
     width: 100%;
     padding: 5px 0;
     font-size: 16px;
@@ -406,6 +414,7 @@ margin-top: -10px;
     resize: none;
     border-bottom: 2px solid #000000;
 }
+
 .contactForm .inputBox span {
     position: absolute;
     left: 0;
@@ -417,15 +426,14 @@ margin-top: -10px;
     color: #666;
 }
 
-.contactForm .inputBox input:focus ~ span,
-.contactForm .inputBox input:valid ~ span
-.contactForm .inputBox textarea:focus ~ span,
-.contactForm .inputBox textarea:valid ~ span
-{
+.contactForm .inputBox input:focus~span,
+.contactForm .inputBox input:valid~span .contactForm .inputBox textarea:focus~span,
+.contactForm .inputBox textarea:valid~span {
     color: #e91e63;
     font-size: 12px;
     transform: translateY(-20px);
 }
+
 .contactForm .inputBox input[type="submit"] {
     width: 100px;
     background: #00bcd4;
@@ -453,4 +461,3 @@ margin-top: -10px;
 /* Media Queries */
 
 /* Media query: tablets and larger (768px and up) */
-
