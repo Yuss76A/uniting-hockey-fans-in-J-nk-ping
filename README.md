@@ -191,6 +191,37 @@ The site was deployed using GitHub. The steps for deployment are as follows:
 
 
 
+## Credits
+
+* Header Background Image
+
+- [Banner-area Image](https://pbs.twimg.com/media/DX_gYhWWsAACvoN?format=jpg&name=4096x4096)
+
+* HV71 Video 
+
+- [HV71 Intro Video](https://www.youtube.com/watch?v=a7cLPHQ8zSw)
+
+* Gallery Images 
+
+- [Stefan Liv](https://www.aktuellanyheteriveckan.se/nyheter/p-jnkpingsgalan-kommer-a6-center-auktionera-utstefan-livs-guldklubba)
+
+- [Champions Image](https://idrottensaffarer.se/event/2017/05/sm-guld-ger-klirr-i-kassan)
+
+- [Kids Playing Photo](https://www.hv71.se/hockeyskolan)
+
+- [HV71 Arena](https://jkpg.com/en/jonkoping-huskvarna/hv71-home-games/)
+
+- [Nort Bank Tifo](https://www.jp.se/2021-11-13/har-ar-hv71-fansens-maktiga-hyllningstifo-haftigaste-nagonsin)
+
+- [Jönköping Air photo](https://www.vatterleden.se/en/jonkoping-granna/)
+
+- [HV71 Skolan Kids](https://www.hv71.se/article/a9etalgou-3iaijd/view)
+
+- [O'Learys Pub](https://www.jp.se/artikel/olearys-och-gladje-varslar-och-permitterar-alla-anstallda)
+
+
+
+
 
 
 
