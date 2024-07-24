@@ -94,7 +94,7 @@ Below is a description of the colors and their respective applications
 
  ![Gallery](docs/screenshots/gallerypage.png)
 
- ## Player and Game Photos
+ ## Player and Game Photos
 
  * The gallery includes a variety of photos capturing players in action and significant game moments. These images celebrate the skill, teamwork, and excitement that define HV7 Hockey Club.
 
