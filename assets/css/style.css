@@ -385,26 +385,26 @@ nav a:hover {
 
 }
 
-.contactForm {
+.contactform {
     width: 40%;
     padding: 40px;
     background: transparent;
 }
 
-.contactForm h2 {
+.contactform h2 {
     font-size: 30px;
     color: #000080;
     font-weight: 500;
 }
 
-.contactForm .inputBox {
+.contactform .inputBox {
     position: relative;
     width: 100%;
     margin-top: 10px;
 }
 
-.contactForm .inputBox input,
-.contactForm .inputBox textarea {
+.contactform .inputBox input,
+.contactform .inputBox textarea {
     width: 100%;
     padding: 5px 0;
     font-size: 16px;
@@ -415,7 +415,7 @@ nav a:hover {
     border-bottom: 2px solid #000000;
 }
 
-.contactForm .inputBox span {
+.contactform .inputBox span {
     position: absolute;
     left: 0;
     padding: 5px;
@@ -426,15 +426,15 @@ nav a:hover {
     color: #666;
 }
 
-.contactForm .inputBox input:focus~span,
-.contactForm .inputBox input:valid~span .contactForm .inputBox textarea:focus~span,
-.contactForm .inputBox textarea:valid~span {
+.contactform .inputBox input:focus~span,
+.contactform .inputBox input:valid~span .contactForm .inputBox textarea:focus~span,
+.contactform .inputBox textarea:valid~span {
     color: #e91e63;
     font-size: 12px;
     transform: translateY(-20px);
 }
 
-.contactForm .inputBox input[type="submit"] {
+.contactform .inputBox input[type="submit"] {
     width: 100px;
     background: #00bcd4;
     color: #fff;
