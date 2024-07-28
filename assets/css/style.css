@@ -564,7 +564,7 @@ label {
         align-items: start;
     }
 
-    .contactForm {
+    .contactform {
         width: 100%;
     }
 }
@@ -577,6 +577,12 @@ label {
 
     .dropdown {
         display: none;
+    }
+
+    @media (max-width: 940px) {
+        main {
+            margin-bottom: 115px;
+        }
     }
 
 }
