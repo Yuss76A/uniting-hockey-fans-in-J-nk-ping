@@ -192,6 +192,7 @@ label {
     top: 450px;
     height: max-content;
     padding-top: 50px;
+    min-height: 100vh;
     background: linear-gradient(white, yellow, blue);
 }
 
