@@ -36,27 +36,12 @@ main {
 
 }
 
-/* Nav toggle */
-#nav-toggle:checked+.nav-toggle-label {
-    display: block;
-}
-
-#nav-toggle {
-    display: none;
-}
-
-.nav-toggle-label {
-    font-size: 2rem;
-    cursor: pointer;
-}
-
-
-
 /* Wrapper */
 
 .wrapper {
-    width: 1170px;
-    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
 
 }
 
@@ -79,7 +64,7 @@ header {
 /* Logo Section */
 
 .logo {
-    width: 30%;
+    padding-top: 30px;
     text-align: left;
 }
 
@@ -87,7 +72,7 @@ header {
 .logo a {
     text-decoration: none;
     font-size: 30px;
-    font-family: Open Sans, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #ffffff;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -98,8 +83,9 @@ header {
 
 nav {
 
+    padding-top: 40px;
+    align-items: end;
     float: right;
-    margin-top: -30px;
 }
 
 nav a {
@@ -118,6 +104,61 @@ nav a:hover {
     color: yellow;
     border-bottom: 4px solid yellow;
 }
+
+/* Burger Menu Styling */
+
+.dropdown {
+    padding-top: 15px;
+    padding-right: 15px;
+    position: fixed;
+    display: inline-block;
+}
+
+.dropdown img {
+    padding-top: 20px;
+    padding-right: 15px;
+    object-fit: contain;
+    width: 6vh;
+    height: 6vh;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    right: 0px;
+    top: 100px;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+#check01,
+.dropdown-content {
+    display: none;
+}
+
+
+label {
+    position: relative;
+    display: block;
+    cursor: pointer;
+}
+
+
+#check01:checked~.dropdown-content {
+    display: block;
+}
+
 
 /* Banner-Area Section */
 
@@ -146,10 +187,10 @@ nav a:hover {
 
 .content-area {
     width: 100%;
-    flex: 1 0 auto;
+    flex: 1 1 1;
     position: relative;
     top: 450px;
-    height: 800px;
+    height: max-content;
     padding-top: 50px;
     background: linear-gradient(white, yellow, blue);
 }
@@ -159,7 +200,6 @@ nav a:hover {
     letter-spacing: 5px;
     padding-top: 0;
     font-size: 30px;
-    margin: 0;
     text-transform: uppercase;
     color: #000080;
 
@@ -232,6 +272,7 @@ nav a:hover {
 
 
 .media-section {
+    width: 100%;
     position: relative;
     display: inline-block;
 }
@@ -239,8 +280,6 @@ nav a:hover {
 /* 2 page styling Gallery page */
 
 .grid_gallery {
-
-    position: absolute;
     justify-content: center;
     align-items: center;
     margin-top: 10px;
@@ -249,7 +288,7 @@ nav a:hover {
     grid-template-columns: repeat(auto-fill, minmax(300px, 300px));
     column-gap: 15px;
     row-gap: 10px;
-    margin-left: -55px;
+    margin-left: 0px;
 }
 
 .photo {
@@ -461,3 +500,83 @@ nav a:hover {
 /* Media Queries */
 
 /* Media query: tablets and larger (768px and up) */
+
+@media (max-width: 392px) and (orientation:portrait) {
+    .logo a {
+        font-size: 25px;
+    }
+
+    .logo {
+        padding-top: 30px;
+    }
+
+}
+
+@media (max-width: 450px) and (orientation:portrait) {
+    .logo a {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 600px) and (orientation:portrait) {
+    .wrapper {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .dropdown {
+        display: contents
+    }
+
+    .media-section iframe {
+        width: 100%;
+    }
+
+    .contact {
+        padding: 50px 20px;
+    }
+
+    .container .contactInfo {
+        width: 100%;
+    }
+}
+
+@media (max-width: 810px) {
+    .wrapper {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .dropdown {
+        display: contents;
+    }
+
+    .container {
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .contactForm {
+        width: 100%;
+    }
+}
+
+@media (min-width: 810px) {
+    .wrapper {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    .dropdown {
+        display: none;
+    }
+
+}

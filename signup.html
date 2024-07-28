@@ -19,12 +19,6 @@
 <body>
     <!-- Nav-Bar Section -->
     <header>
-        <div>
-            <input type="checkbox" id="nav-toggle" name="nav-toggle">
-            <label for="nav-toggle" class="nav-toggle-label">
-                <i class="fa-solid fa-bars"></i>
-            </label>
-        </div>
         <div class="wrapper">
             <div class="logo">
                 <a href="#">Uniting Hockey Fans</a>
@@ -33,8 +27,18 @@
                 <a href="index.html" aria-label="Home Page">Home</a>
                 <a href="gallery.html" aria-label="Gallery Page">Gallery</a>
                 <a href="signup.html" class="active" aria-label="Contact Page">Contact</a>
-
             </nav>
+            <div class="dropdown">
+                <input id="check01" type="checkbox">
+                <label for="check01">
+                    <img id="menu_image" src="assets/images/menu.png">
+                </label>
+                <div class="dropdown-content">
+                    <a href="index.html">Home></a>
+                    <a href="gallery.html">Gallery</a>
+                    <a href="signup.html">Contact/a>
+                </div>
+            </div>
         </div>
     </header>
     <main>
@@ -45,62 +49,59 @@
         </div>
         <!-- Wrapper Section -->
         <div class="content-area">
-            <div class="wrapper">
-
-                <!-- Contact Section -->
-                <section class="contact">
-                    <div class="content">
-                        <h2>Contact US</h2>
-                        <p>Find your hockey family - contact us to connect with fellow fans.</p>
-                        <br>
-                    </div>
-                    <div class="container">
-                        <div class="contactInfo">
-                            <div class="box">
-                                <div class="icon"><i class="fa-solid fa-location-dot"></i></div>
-                                <div class="text">
-                                    <h3>Address</h3>
-                                    <p>Birkagatan 41, <br> 561 33 Huskvarna</p>
-                                </div>
-                            </div>
-                            <div class="box">
-                                <div class="icon"><i class="fa-solid fa-phone"></i></div>
-                                <div class="text">
-                                    <h3>Phone</h3>
-                                    <p>+46-(0)73 45 65 83</p>
-                                </div>
-                            </div>
-                            <div class="box">
-                                <div class="icon"><i class="fa-solid fa-envelope"></i></div>
-                                <div class="text">
-                                    <h3>Email</h3>
-                                    <p>fh71@hotmail.se</p>
-                                </div>
+            <!-- Contact Section -->
+            <section class="contact">
+                <div class="content">
+                    <h2>Contact US</h2>
+                    <p>Find your hockey family - contact us to connect with fellow fans.</p>
+                    <br>
+                </div>
+                <div class="container">
+                    <div class="contactInfo">
+                        <div class="box">
+                            <div class="icon"><i class="fa-solid fa-location-dot"></i></div>
+                            <div class="text">
+                                <h3>Address</h3>
+                                <p>Birkagatan 41, <br> 561 33 Huskvarna</p>
                             </div>
                         </div>
-                        <div class="contactform">
-                            <form action="response.html" method="GET">
-                                <h2>Send Message</h2>
-                                <div class="inputBox">
-                                    <input type="text" name="" required>
-                                    <span>Full Name</span>
-                                </div>
-                                <div class="inputBox">
-                                    <input type="email" name="" required>
-                                    <span>Email</span>
-                                </div>
-                                <div class="inputBox">
-                                    <textarea required></textarea>
-                                    <span>Type your Message...</span>
-                                </div>
-                                <div class="inputBox">
-                                    <input type="submit" name="" value="Send">
-                                </div>
-                            </form>
+                        <div class="box">
+                            <div class="icon"><i class="fa-solid fa-phone"></i></div>
+                            <div class="text">
+                                <h3>Phone</h3>
+                                <p>+46-(0)73 45 65 83</p>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <div class="icon"><i class="fa-solid fa-envelope"></i></div>
+                            <div class="text">
+                                <h3>Email</h3>
+                                <p>fh71@hotmail.se</p>
+                            </div>
                         </div>
                     </div>
-                </section>
-            </div>
+                    <div class="contactform">
+                        <form action="response.html" method="GET">
+                            <h2>Send Message</h2>
+                            <div class="inputBox">
+                                <input type="text" name="" required>
+                                <span>Full Name</span>
+                            </div>
+                            <div class="inputBox">
+                                <input type="email" name="" required>
+                                <span>Email</span>
+                            </div>
+                            <div class="inputBox">
+                                <textarea required></textarea>
+                                <span>Type your Message...</span>
+                            </div>
+                            <div class="inputBox">
+                                <input type="submit" name="" value="Send">
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
         </div>
 
 

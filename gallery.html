@@ -19,12 +19,6 @@
 <body>
   <!-- Nav-Bar Section -->
   <header>
-    <div>
-      <input type="checkbox" id="nav-toggle" name="nav-toggle">
-      <label for="nav-toggle" class="nav-toggle-label">
-        <i class="fa-solid fa-bars"></i>
-      </label>
-    </div>
     <div class="wrapper">
       <div class="logo">
         <a href="#">Uniting Hockey Fans</a>
@@ -33,8 +27,18 @@
         <a href="index.html" aria-label="Home Page">Home</a>
         <a href="gallery.html" class="active" aria-label="Gallery Page">Gallery</a>
         <a href="signup.html" aria-label="Contact Page">Contact</a>
-
       </nav>
+      <div class="dropdown">
+        <input id="check01" type="checkbox">
+        <label for="check01">
+          <img id="menu_image" src="assets/images/menu.png">
+        </label>
+        <div class="dropdown-content">
+          <a href="index.html">Home></a>
+          <a href="gallery.html">Gallery</a>
+          <a href="signup.html">Contact/a>
+        </div>
+      </div>
     </div>
   </header>
   <main>
@@ -45,97 +49,94 @@
     </div>
     <!-- Content-Area -->
     <div class="content-area">
-      <div class="wrapper">
-        <h2>Gallery</h2>
-        <br>
-        <!-- Gallery -->
-        <section class="gallery_main">
-          <div class="grid_gallery">
-            <!-- Gallery item 1 -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/kidsplaying.jpg" alt="Kids playing a hockey game in Jönköping">
-              <figcaption class="image_content">
-                <h2 class="image_name">HV71 Hockey Academy</h2>
-                <p class="image_description">
-                  HV71 kids playing a hockey game.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 2 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/husqvarnagarden.jpeg" alt="HV71 Hockey Arena">
-              <figcaption class="image_content">
-                <h2 class="image_name">Husqvarna Garden</h2>
-                <p class="image_description">
-                  HV71 home arena 'Husqvarna Garden'.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 3 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/nortbank.jpeg" alt="HV71 Bank Supporters">
-              <figcaption class="image_content">
-                <h2 class="image_name">Bank supporters</h2>
-                <p class="image_description">
-                  Beauituful Tifo from the Nord Bank supporters.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 4 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/hvchampion.jpeg" alt="HV71 celebrating their last championship">
-              <figcaption class="image_content">
-                <h2 class="image_name">Svenska Mästare</h2>
-                <p class="image_description">
-                  HV71 Celebrating their last championship 2017-2018 .
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 5 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/hvkidsteam.webp" alt="kids playing a game">
-              <figcaption class="image_content">
-                <h2 class="image_name">HV71 Young Academy</h2>
-                <p class="image_description">
-                  HV71 Young academy kids.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 6 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/olearys.jpeg" alt="Uniting Fans Club Meeting Poing">
-              <figcaption class="image_content">
-                <h2 class="image_name">O'Learys Cafe</h2>
-                <p class="image_description">
-                  Uniting Hockey Fans meeting point.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 7 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/stefanliv.jpeg" alt="HV71 Legend Stefan Liv">
-              <figcaption class="image_content">
-                <h2 class="image_name">Stefan Liv</h2>
-                <p class="image_description">
-                  A true icon, gone but never to be replaced.
-                </p>
-              </figcaption>
-            </figure>
-            <!-- 8 Photo -->
-            <figure class="gallery_image">
-              <img class="photo" src="assets/images/jonkopingimage.jpeg" alt="Jönköping city">
-              <figcaption class="image_content">
-                <h2 class="image_name">Jönköping city</h2>
-                <p class="image_description">
-                  HV71 Home city eagle eye.
-                </p>
-              </figcaption>
-            </figure>
+      <h2>Gallery</h2>
+      <br>
+      <!-- Gallery -->
+      <section class="gallery_main">
+        <div class="grid_gallery">
+          <!-- Gallery item 1 -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/kidsplaying.jpg" alt="Kids playing a hockey game in Jönköping">
+            <figcaption class="image_content">
+              <h2 class="image_name">HV71 Hockey Academy</h2>
+              <p class="image_description">
+                HV71 kids playing a hockey game.
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 2 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/husqvarnagarden.jpeg" alt="HV71 Hockey Arena">
+            <figcaption class="image_content">
+              <h2 class="image_name">Husqvarna Garden</h2>
+              <p class="image_description">
+                HV71 home arena 'Husqvarna Garden'.
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 3 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/nortbank.jpeg" alt="HV71 Bank Supporters">
+            <figcaption class="image_content">
+              <h2 class="image_name">Bank supporters</h2>
+              <p class="image_description">
+                Beauituful Tifo from the Nord Bank supporters.
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 4 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/hvchampion.jpeg" alt="HV71 celebrating their last championship">
+            <figcaption class="image_content">
+              <h2 class="image_name">Svenska Mästare</h2>
+              <p class="image_description">
+                HV71 Celebrating their last championship 2017-2018 .
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 5 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/hvkidsteam.webp" alt="kids playing a game">
+            <figcaption class="image_content">
+              <h2 class="image_name">HV71 Young Academy</h2>
+              <p class="image_description">
+                HV71 Young academy kids.
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 6 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/olearys.jpeg" alt="Uniting Fans Club Meeting Poing">
+            <figcaption class="image_content">
+              <h2 class="image_name">O'Learys Cafe</h2>
+              <p class="image_description">
+                Uniting Hockey Fans meeting point.
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 7 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/stefanliv.jpeg" alt="HV71 Legend Stefan Liv">
+            <figcaption class="image_content">
+              <h2 class="image_name">Stefan Liv</h2>
+              <p class="image_description">
+                A true icon, gone but never to be replaced.
+              </p>
+            </figcaption>
+          </figure>
+          <!-- 8 Photo -->
+          <figure class="gallery_image">
+            <img class="photo" src="assets/images/jonkopingimage.jpeg" alt="Jönköping city">
+            <figcaption class="image_content">
+              <h2 class="image_name">Jönköping city</h2>
+              <p class="image_description">
+                HV71 Home city eagle eye.
+              </p>
+            </figcaption>
+          </figure>
 
-          </div>
-        </section>
-
-      </div>
+        </div>
+      </section>
     </div>
   </main>
   <footer id="footer">
