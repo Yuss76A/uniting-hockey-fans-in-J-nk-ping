@@ -495,8 +495,13 @@ label {
     position: relative;
     text-align: center;
     font-size: 40px;
-    color: yellow;
+    color: #000080;
     margin-top: 20px;
+}
+
+.contactform-response-page {
+    min-height: 100vh;
+    background: linear-gradient(white, yellow, blue);
 }
 
 
