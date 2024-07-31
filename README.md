@@ -259,6 +259,21 @@ The site was deployed using GitHub. The steps for deployment are as follows:
 
 
 
+## Acknowledgments
+
+
+- [Fatme Ali](https://www.linkedin.com/in/fatme-ali-795233160/)Special thanks to my wonderful wife for her unwavering support and encouragement during the difficult moments of this project, making every challenge easier to overcome.
+
+- [Iuliia Konovalova](https://github.com/IuliiaKonovalova)A heartfelt thank you to my mentor for your extraordinary insights and encouragement, which have propelled me forward and shaped my journey throughout this project in ways I will always cherish.
+
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)Special thanks to Kevin Powell for his incredibly helpful videos and tutorials, which have served as invaluable resources throughout this project, guiding me with clarity and inspiration every step of the way.
+
+- [Code Institute](https://codeinstitute.net/global/)Special thanks to the Code Institute, along with the dedicated tutors and mentors in the Slack community, for your unwavering support and guidance; your expertise and encouragement have been instrumental in my learning journey and the success of this project.
+
+- [Emin Shukriev]Special appreciation goes to my friend Emin for being an incredible source of support during this project; your help, insights, and encouragement have been truly transformative and made this journey so much more enjoyable.
+
+- [Martin Hellberg]A special thanks to my coworker Martin for introducing me to the city's hockey team and sharing a new sport that captivated me from the very beginning; your enthusiasm and guidance have enriched my experience and sparked a passion I never knew I had.
+
 
 
 
