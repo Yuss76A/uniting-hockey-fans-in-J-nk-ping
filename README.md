@@ -78,7 +78,7 @@ Below is a description of the colors and their respective applications
 
    *Navbar hover* <br>
 
-   ![Navbar Hover Effect](docs/screenshots/navhovvereffect.png)
+     ![Navbar Hover Effect](docs/screenshots/navhovvereffect.png)
 
 
    * Small devices (<992px)
@@ -95,7 +95,7 @@ Below is a description of the colors and their respective applications
      ![Navbar Dropdown](docs/screenshots/dropdown.png)
 
 
-     
+
 ## Pages Description 
 
 ### Home Page 
