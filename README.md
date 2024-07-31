@@ -58,6 +58,44 @@ Below is a description of the colors and their respective applications
 * #e91e63 - This color will be used for the contact-box section changin the color of the text inside the contact-box.
 * #00bcd4 - This color will be used for the text sections Address, Email, Telephone in the contact page.
 
+
+## Nav-Bar Description
+
+### Nav-Bar
+
+* The navigation bar is fixed at the top of the screen, offering easy access to various sections of the site. It is fully responsive to different screen sizes, transitioning from a hamburger-style dropdown menu to a horizontal list on larger screens. Additionally, it prominently showcases the website's logo to immediately attract the user's attention.
+
+   * Desktop 
+     * The navigation bar stretches across the full width of the device and includes links to navigate to various sections of the site. This ensures straightforward and transparent access to all the content for the user.
+
+
+     *Navbar Desktop*<br>
+
+     ![Navbar Desktop](docs/screenshots/navbar.png)
+
+
+   * The links will change color when the user hovers over them to improve visibility.
+
+   *Navbar hover* <br>
+
+   ![Navbar Hover Effect](docs/screenshots/navhovvereffect.png)
+
+
+   * Small devices (<992px)
+     * As the screen size gets smaller, the navigation menu becomes too lengthy to fit within the navbar and still look good. Hence, on smaller devices, the navigation menu will be toggled on and off using a hamburger icon. When activated, the navigation menu will be displayed as a dropdown list.
+
+
+     *Navbar Small*<br>
+
+     ![Navbar Small](docs/screenshots/smalldevicesnavbar.png)
+
+
+     *Navbar dropdown*<br>
+
+     ![Navbar Dropdown](docs/screenshots/dropdown.png)
+
+
+     
 ## Pages Description 
 
 ### Home Page 
