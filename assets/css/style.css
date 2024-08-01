@@ -104,11 +104,11 @@ nav a:hover {
 }
 
 .dropdown img {
-    padding-top: 20px;
+    padding-top: 35px;
     padding-right: 15px;
     object-fit: contain;
-    width: 6vh;
-    height: 6vh;
+    width: 9vh;
+    height: 9vh;
     max-width: 100%;
     max-height: 100%;
 }
@@ -162,11 +162,11 @@ label {
 }
 
 .banner-area h2 {
-    padding-top: 15%;
+    padding-top: 80px;
     font-size: 20px;
     font-family: 'Open Sans', sans-serif;
     text-transform: uppercase;
-    color: #ffffff;
+    color: #ffff00;
 }
 
 /* Content Area Section */
