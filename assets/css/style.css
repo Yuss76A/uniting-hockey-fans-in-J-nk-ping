@@ -14,7 +14,6 @@ html {
     height: 100%;
 }
 
-
 /* Body Section */
 
 body {
@@ -462,6 +461,23 @@ label {
     cursor: pointer;
     padding: 10px;
     font-size: 20px;
+}
+
+/* Default Style for Submit Button */
+
+.contactform .inputBox input[type="submit"] {
+    width: 100px;
+    background: #00bcd4;/ color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    font-size: 20px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover Effect for Submit Button */
+.contactform .inputBox input[type="submit"]:hover {
+    background-color: #000080;
 }
 
 /* Response Page */
