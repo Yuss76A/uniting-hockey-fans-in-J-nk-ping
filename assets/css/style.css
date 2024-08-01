@@ -108,9 +108,9 @@ nav a:hover {
     padding-right: 15px;
     object-fit: contain;
     width: 9vh;
-    height: 9vh;
-    max-width: 50%;
-    max-height: 50%;
+    height: 8vh;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .dropdown-content {
@@ -204,6 +204,12 @@ label {
 .content-area h2 {
     font-family: 'Open Sans', sans-serif;
     margin-top: -30px;
+}
+
+/*Video Section*/
+
+.youtube-frame {
+    border: none;
 }
 
 /*Styling Btn Section*/
