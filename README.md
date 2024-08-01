@@ -228,6 +228,18 @@ The site was deployed using GitHub. The steps for deployment are as follows:
 7. You will be able to view your live project at http://your-username.github.io/your-project-title/.
 
 
+## Code Testing
+
+Thorough testing has been conducted during the construction process to confirm that all features function as expected. Various features have been evaluated across multiple platforms, ensuring the site is fully responsive across different screen sizes. All navigation links are functioning properly. The booking form submits successfully once all required fields are completed, redirecting users to a thank you page. Additionally, the social media links in the footer successfully lead to the appropriate pages in a new tab.
+
+- HTML Validation
+
+![HTML Validation](docs/screenshots/html.png)
+
+- CSS Validation
+
+![CSS Validation](docs/screenshots/css.png)
+
 
 ## Credits
 

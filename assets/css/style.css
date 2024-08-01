@@ -226,7 +226,7 @@ label {
     text-transform: uppercase;
     font-weight: bold;
     border: 1px solid var(--clr-primary-900);
-    background-color: var(#ffff00);
+    background-color: var(--clr-primary-100);
     background: #ffff00;
     border-radius: 0.5rem;
     box-shadow: inset 0 -3px 0 1px #0f020b52;
@@ -499,11 +499,12 @@ label {
     font-size: 20px;
 }
 
-/* Default Style for Submit Button */
+/*Style for Submit Button */
 
 .contactform .inputBox input[type="submit"] {
     width: 100px;
-    background: #00bcd4;/ color: #fff;
+    background: #00bcd4;
+    color: #fff;
     border: none;
     cursor: pointer;
     padding: 10px;
