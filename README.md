@@ -274,6 +274,8 @@ The site was deployed using GitHub. The steps for deployment are as follows:
 
 - [Martin Hellberg] A special thanks to my coworker Martin for introducing me to the city's hockey team and sharing a new sport that captivated me from the very beginning; your enthusiasm and guidance have enriched my experience and sparked a passion I never knew I had.
 
+- [GitHub](https://github.com/) Also, a big thanks to the GitHub Team for providing such an exceptional platform. The opportunities for learning and collaboration that GitHub offers are invaluable. 
+
 
 
 
