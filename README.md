@@ -258,6 +258,10 @@ Thorough testing has been conducted during the construction process to confirm t
 
 - [Banner-area Image](https://pbs.twimg.com/media/DX_gYhWWsAACvoN?format=jpg&name=4096x4096)
 
+* Fans Logo
+
+- Created with AI Images.
+
 * HV71 Video 
 
 - [HV71 Intro Video](https://www.youtube.com/watch?v=a7cLPHQ8zSw)
