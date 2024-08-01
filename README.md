@@ -10,6 +10,15 @@ The site can be accessed by this [link](https://8000-yuss76a-unitinghockeyfa-yhk
 
 ---
 
+
+## Responsive Validation
+
+Comprehensive testing has been conducted throughout the development process to verify that all features operate as intended. The website is fully responsive, having been tested on multiple platforms and across various screen sizes.
+
+- Responsive Validation
+
+![Responsive Image](docs/screenshots/responsive.png)
+
 ### First Time Visitor Goals:
 
 ## Understand the Site's Purpose:
