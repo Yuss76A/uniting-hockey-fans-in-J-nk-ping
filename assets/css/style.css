@@ -148,6 +148,11 @@ label {
     display: block;
 }
 
+#menu_image {
+    width: 75px;
+    height: 75px;
+    object-position: center;
+}
 
 /* Banner-Area Section */
 
