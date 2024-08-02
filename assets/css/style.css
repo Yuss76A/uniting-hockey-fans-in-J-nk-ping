@@ -29,6 +29,7 @@ body {
 main {
     flex: 1 0 auto;
     min-height: 130vh;
+    background: linear-gradient(white, yellow, blue);
 }
 
 /* Wrapper */
@@ -104,7 +105,7 @@ nav a:hover {
 }
 
 .dropdown img {
-    padding-top: 35px;
+    padding-top: 30px;
     padding-right: 15px;
     object-fit: contain;
     width: 9vh;
@@ -185,7 +186,7 @@ label {
     padding-top: 50px;
     min-height: 100vh;
     background: linear-gradient(white, yellow, blue);
-    margin-bottom: 520px;
+    margin-bottom: 550px;
 }
 
 .content-area h2 {
@@ -219,7 +220,8 @@ label {
 
 /*Styling Btn Section*/
 
-.btn_section a {
+.btn_section {
+    padding-top: 15%;
     text-decoration: none;
     color: #0c0c0c;
 }
