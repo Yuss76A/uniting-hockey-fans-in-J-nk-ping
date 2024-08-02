@@ -181,6 +181,9 @@ Below is a description of the colors and their respective applications
 
 ![Message](docs/screenshots/contactusmessage.png)
 
+* On the Home and Gallery pages, you'll find a prominent "Contact Us" button located at the bottom, designed for instant and convenient access to our Contact Us page.
+
+![Contact-Us Button](docs/screenshots/contactus.png)
 
 
 ### Response Page
