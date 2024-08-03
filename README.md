@@ -271,9 +271,7 @@ Thorough testing has been conducted during the construction process to confirm t
 
 - [Banner-area Image](https://pbs.twimg.com/media/DX_gYhWWsAACvoN?format=jpg&name=4096x4096)
 
-* Fans Logo
-
-- Created with AI Images.
+* Fans Logo 'The Bull' was created with AI Images Creator.
 
 * HV71 Video 
 
