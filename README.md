@@ -206,7 +206,17 @@ Below is a description of the colors and their respective applications
 
 ![Footer](docs/screenshots/footer.png)
 
+## Wireframes
 
+* The wireframes for my website were created at the beginning of the project. While there were some small updates during the building of the page, I made an effort to stay focused on my initial idea throughout the development process.
+
+- The wireframes were created using [Balsamic](https://balsamiq.com "Balsamic").
+
+### [Desktop Wireframe](docs/wireframes/desktop.png)
+
+### [Tablet Wireframe](docs/wireframes/ipad.jpg)
+
+### [Mobile Wireframe](docs/wireframes/iphone.jpg)
 
 ## Used Technologies
 
@@ -235,7 +245,7 @@ Below is a description of the colors and their respective applications
 
 - Add a lighthouse report with [Lighthouse Google Chrome](https://developer.chrome.com/docs/lighthouse/overview?hl=es-419)
 
--I’m aware that there are still things to add and improve on the website, but we’ve just started, and our hockey family is growing. I’ll do my best to make everything easier and better for all the hockey fans who visit our web page.
+- I’m aware that there are still things to add and improve on the website, but we’ve just started, and our hockey family is growing. I’ll do my best to make everything easier and better for all the hockey fans who visit our web page.
 
 
 
