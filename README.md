@@ -227,6 +227,16 @@ Below is a description of the colors and their respective applications
 * [W3C Markup Validation](https://validator.w3.org/#validate_by_input "W3C Markup Validation")
 * [W3C CSS Validation](https://jigsaw.w3.org/css-validator/#validate_by_input "W3C CSS Validation")
 
+## Future Improvements
+
+- Set up a personalized 404 error page.
+
+- Add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
+
+- Add a lighthouse report with [Lighthouse Google Chrome](https://developer.chrome.com/docs/lighthouse/overview?hl=es-419)
+
+-I’m aware that there are still things to add and improve on the website, but we’ve just started, and our hockey family is growing. I’ll do my best to make everything easier and better for all the hockey fans who visit our web page.
+
 
 
 ## Deployment
