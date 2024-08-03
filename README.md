@@ -92,7 +92,7 @@ Below is a description of the colors and their respective applications
      ![Navbar Hover Effect](docs/screenshots/navhovvereffect.png)
 
 
-   * Small devices (<992px)
+   * Small devices (<810px)
      * As the screen size gets smaller, the navigation menu becomes too lengthy to fit within the navbar and still look good. Hence, on smaller devices, the navigation menu will be toggled on and off using a hamburger icon. When activated, the navigation menu will be displayed as a dropdown list.
 
 
